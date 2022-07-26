@@ -27,7 +27,9 @@
 * [x] Пройти курс "Базовое администрирование Linux на Slurm
 * [x] Создать свой первый проект на Github       
 * [x] Пройти курс по Git на Slurm
-* [ ] Пройти курс по Linux for Developer на Slurm
-* [ ] Пройти курс по Вечерняя школа Kubernetes для разработчиков на Slurm
+* [x] Пройти курс по Linux for Developer на Slurm
+* [ ] Научиться качественно верстать)
+* [ ] Пройти курс Javascript на learn.javascript.ru 
+* [ ] Пройти курс "Начинанающий react-разработчик" на KTS Metaclass
 * [ ] Закончить обучение на GeekBrains.ru по профессии Frontend-разработчик
 <!-- TODO-IST:END -->

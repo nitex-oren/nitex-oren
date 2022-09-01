@@ -30,6 +30,6 @@
 * [x] Пройти курс по Linux for Developer на Slurm
 * [ ] Научиться качественно верстать)
 * [ ] Пройти курс Javascript на learn.javascript.ru 
-* [ ] Пройти курс "Начинанающий react-разработчик" на KTS Metaclass
+* [ ] Успешно пройти курс Разработка на React · RS School 2022Q3
 * [ ] Закончить обучение на GeekBrains.ru по профессии Frontend-разработчик
 <!-- TODO-IST:END -->
